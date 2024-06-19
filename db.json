@@ -1,0 +1,773 @@
+{
+	"characters": [
+		{
+			"id": "lili",
+			"firstName": "Lili",
+			"lastName": "de Rochefort",
+			"photo": "./src/img/lilipng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 5: DR",
+			"continent": "Europe",
+			"region": "Monaco",
+			"gameID": 7
+		},
+		{
+			"id": "jin",
+			"firstName": "Jin",
+			"lastName": "Kazama",
+			"photo": "./src/img/jinpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 3",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 3
+		},
+		{
+			"id": "jun",
+			"firstName": "Jun",
+			"lastName": "Kazama",
+			"photo": "./src/img/junjpg.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 2",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 2
+		},
+		{
+			"id": "asuka",
+			"firstName": "Asuka",
+			"lastName": "Kazama",
+			"photo": "./src/img/asukapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 5",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 6
+		},
+		{
+			"id": "kazuya",
+			"firstName": "Kazuya",
+			"lastName": "Mishima",
+			"photo": "./src/img/kazuyapng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 1
+		},
+		{
+			"id": "heihachi",
+			"firstName": "Heihachi",
+			"lastName": "Mishima",
+			"photo": "./src/img/heihachipng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 1
+		},
+		{
+			"id": "xiaoyu",
+			"firstName": "Ling",
+			"lastName": "Xiaoyu",
+			"photo": "./src/img/xiaoyupng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 3",
+			"continent": "Asia",
+			"region": "China",
+			"gameID": 3
+		},
+		{
+			"id": "panda",
+			"firstName": "Panda",
+			"lastName": "",
+			"photo": "./src/img/pandapng.png",
+			"genre": "Female",
+			"species": "Bear",
+			"source": "Tekken 3",
+			"continent": "Asia",
+			"region": "China",
+			"gameID": 3
+		},
+		{
+			"id": "kazumi",
+			"firstName": "Kazumi",
+			"lastName": "Mishima",
+			"photo": "./src/img/kazumipng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 10
+		},
+		{
+			"id": "paul",
+			"firstName": "Paul",
+			"lastName": "Phoenix",
+			"photo": "./src/img/paulpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "North America",
+			"region": "USA",
+			"gameID": 1
+		},
+		{
+			"id": "alisa",
+			"firstName": "Alisa",
+			"lastName": "Bosconovich",
+			"photo": "./src/img/alisapng.png",
+			"genre": "Female",
+			"species": "Android",
+			"source": "Tekken 6",
+			"continent": "Europe",
+			"region": "Russia",
+			"gameID": 8
+		},
+		{
+			"id": "king",
+			"firstName": "King",
+			"lastName": "",
+			"photo": "./src/img/kingpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "North America",
+			"region": "Mexico",
+			"gameID": 1
+		},
+		{
+			"id": "nina",
+			"firstName": "Nina",
+			"lastName": "Williams",
+			"photo": "./src/img/ninapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "Europe",
+			"region": "Ireland",
+			"gameID": 1
+		},
+		{
+			"id": "jack",
+			"firstName": "Jack",
+			"lastName": "",
+			"photo": "./src/img/jack-7png.png",
+			"genre": "Male",
+			"species": "Android",
+			"source": "Tekken 1",
+			"continent": "Europe",
+			"region": "Russia",
+			"gameID": 1
+		},
+		{
+			"id": "lei",
+			"firstName": "Lei",
+			"lastName": "Wulong",
+			"photo": "./src/img/leipng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 2",
+			"continent": "Asia",
+			"region": "China",
+			"gameID": 2
+		},
+		{
+			"id": "steve",
+			"firstName": "Steve",
+			"lastName": "Fox",
+			"photo": "./src/img/stevepng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 4",
+			"continent": "Europe",
+			"region": "England",
+			"gameID": 5
+		},
+		{
+			"id": "reina",
+			"firstName": "Reina",
+			"lastName": "Mishima",
+			"photo": "./src/img/reinapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 8",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 11
+		},
+		{
+			"id": "azucena",
+			"firstName": "Azucena",
+			"lastName": "Ortiz",
+			"photo": "./src/img/azucenapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 8",
+			"continent": "South America",
+			"region": "Peru",
+			"gameID": 11
+		},
+		{
+			"id": "katarina",
+			"firstName": "Katarina",
+			"lastName": "Alves",
+			"photo": "./src/img/katarinapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"continent": "South America",
+			"region": "Brazil",
+			"gameID": 10
+		},
+		{
+			"id": "combot",
+			"firstName": "Combot",
+			"lastName": "",
+			"photo": "./src/img/combotpng.png",
+			"genre": "Male",
+			"species": "Android",
+			"source": "Tekken 4",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 5
+		},
+		{
+			"id": "baek",
+			"firstName": "Baek",
+			"lastName": "Doo San",
+			"photo": "./src/img/baekjpg.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 2",
+			"continent": "Asia",
+			"region": "South Korea",
+			"gameID": 2
+		},
+		{
+			"id": "michelle",
+			"firstName": "Michelle",
+			"lastName": "Chang",
+			"photo": "./src/img/michellepng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "North America",
+			"region": "USA",
+			"gameID": 1
+		},
+		{
+			"id": "julia",
+			"firstName": "Julia",
+			"lastName": "Chang",
+			"photo": "./src/img/juliapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 3",
+			"continent": "North America",
+			"region": "USA",
+			"gameID": 3
+		},
+		{
+			"id": "josie",
+			"firstName": "Josie",
+			"lastName": "Rizal",
+			"photo": "./src/img/josiepng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"continent": "Asia",
+			"region": "Philippines",
+			"gameID": 10
+		},
+		{
+			"id": "leo",
+			"firstName": "Leo",
+			"lastName": "Kliesen",
+			"photo": "./src/img/leopng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 6",
+			"continent": "Europe",
+			"region": "Unknown",
+			"gameID": 8
+		},
+		{
+			"id": "lars",
+			"firstName": "Lars",
+			"lastName": "Alexandersson",
+			"photo": "./src/img/larspng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 6",
+			"continent": "Europe",
+			"region": "Sweden",
+			"gameID": 8
+		},
+		{
+			"id": "marduk",
+			"firstName": "Craig",
+			"lastName": "Marduk",
+			"photo": "./src/img/mardukpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 4",
+			"continent": "Oceania",
+			"region": "Australia",
+			"gameID": 5
+		},
+		{
+			"id": "raven",
+			"firstName": "Raven",
+			"lastName": "",
+			"photo": "./src/img/ravenpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 5",
+			"continent": "Unknown",
+			"region": "Unknown",
+			"gameID": 6
+		},
+		{
+			"id": "feng",
+			"firstName": "Feng",
+			"lastName": "Wei",
+			"photo": "./src/img/fengpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 5",
+			"continent": "Asia",
+			"region": "China",
+			"gameID": 6
+		},
+		{
+			"id": "lee",
+			"firstName": "Lee",
+			"lastName": "Chaolan",
+			"photo": "./src/img/leepng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "Europe",
+			"region": "Unknown",
+			"gameID": 1
+		},
+		{
+			"id": "law",
+			"firstName": "Marshall",
+			"lastName": "Law",
+			"photo": "./src/img/lawpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "North America",
+			"region": "USA",
+			"gameID": 1
+		},
+		{
+			"id": "yoshimitsu",
+			"firstName": "Yoshimitsu",
+			"lastName": "",
+			"photo": "./src/img/yoshimitsupng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 1
+		},
+		{
+			"id": "kuma",
+			"firstName": "Kuma",
+			"lastName": "I",
+			"photo": "./src/img/kumapng.png",
+			"genre": "Male",
+			"species": "Bear",
+			"source": "Tekken 1",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 1
+		},
+		{
+			"id": "kuma2",
+			"firstName": "Kuma",
+			"lastName": "II",
+			"photo": "./src/img/kumapng.png",
+			"genre": "Male",
+			"species": "Bear",
+			"source": "Tekken 3",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 3
+		},
+		{
+			"id": "hwoarang",
+			"firstName": "Hwoarang",
+			"lastName": "",
+			"photo": "./src/img/hwoarangpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 3",
+			"continent": "Asia",
+			"region": "South Korea",
+			"gameID": 3
+		},
+		{
+			"id": "deviljin",
+			"firstName": "Devil",
+			"lastName": "Jin",
+			"photo": "./src/img/devil-jinpng.png",
+			"genre": "Male",
+			"species": "Human/Devil",
+			"source": "Tekken 5",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 6
+		},
+		{
+			"id": "jinpachi",
+			"firstName": "Jinpachi",
+			"lastName": "Mishima",
+			"photo": "./src/img/jinpachijpg.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 5",
+			"continent": "Asia",
+			"region": "Japan",
+			"gameID": 6
+		},
+		{
+			"id": "anna",
+			"firstName": "Anna",
+			"lastName": "Williams",
+			"photo": "./src/img/annapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 1",
+			"continent": "Europe",
+			"region": "Ireland",
+			"gameID": 1
+		},
+		{
+			"id": "armorking",
+			"firstName": "Armor",
+			"lastName": "King",
+			"photo": "./src/img/armor-kingpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 2",
+			"continent": "North America",
+			"region": "Mexico",
+			"gameID": 2
+		},
+		{
+			"id": "eddy",
+			"firstName": "Eddy",
+			"lastName": "Gordo",
+			"photo": "./src/img/eddypng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 3",
+			"continent": "South America",
+			"region": "Brazil",
+			"gameID": 3
+		},
+		{
+			"id": "christie",
+			"firstName": "Christie",
+			"lastName": "Monteiro",
+			"photo": "./src/img/christiejpg.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 4",
+			"continent": "South America",
+			"region": "Brazil",
+			"gameID": 5
+		},
+		{
+			"id": "lucky",
+			"firstName": "Lucky",
+			"lastName": "Chloe",
+			"photo": "./src/img/lucky-chloepng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Japan",
+			"continent": "Asia",
+			"gameID": 10
+		  },
+		  {
+			"id": "bruce",
+			"firstName": "Bruce",
+			"lastName": "Irvin",
+			"photo": "./src/img/brucepng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 2",
+			"region": "USA",
+			"continent": "North America",
+			"gameID": 2
+		  },
+		  {
+			"id": "devil",
+			"firstName": "Devil",
+			"lastName": "Kazuya",
+			"photo": "./src/img/devilpng.png",
+			"genre": "Male",
+			"species": "Human/Devil",
+			"source": "Tekken 2",
+			"region": "Japan",
+			"continent": "Asia",
+			"gameID": 2
+		  },
+		  {
+			"id": "bryan",
+			"firstName": "Bryan",
+			"lastName": "Fury",
+			"photo": "./src/img/bryanpng.png",
+			"genre": "Male",
+			"species": "Android",
+			"source": "Tekken 3",
+			"region": "USA",
+			"continent": "North America",
+			"gameID": 3
+		  },
+		  {
+			"id": "ogre",
+			"firstName": "Ogre",
+			"lastName": "",
+			"photo": "./src/img/ancient-ogrejpg.png",
+			"genre": "Male",
+			"species": "Ancient Demon",
+			"source": "Tekken 3",
+			"region": "Unknown",
+			"continent": "Unknown",
+			"gameID": 3
+		  },
+		  {
+			"id": "ganryu",
+			"firstName": "Ganryu",
+			"lastName": "",
+			"photo": "./src/img/ganryupng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"region": "Japan",
+			"continent": "Asia",
+			"gameID": 1
+		  },
+		  {
+			"id": "miguel",
+			"firstName": "Miguel",
+			"lastName": "Caballero Rojo",
+			"photo": "./src/img/miguelpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 6",
+			"region": "Spain",
+			"continent": "Europe",
+			"gameID": 8
+		  },
+		  {
+			"id": "dragunov",
+			"firstName": "Dragunov",
+			"lastName": "Sergei",
+			"photo": "./src/img/dragunovpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 5: DR",
+			"region": "Russia",
+			"gameID": 7,
+			"continent": "Europe"
+		  },
+		  {
+			"id": "leroy",
+			"firstName": "Leroy",
+			"lastName": "Smith",
+			"photo": "./src/img/leroypng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "USA",
+			"gameID": 10,
+			"continent": "North America"
+		  },
+		  {
+			"id": "devilkazumi",
+			"firstName": "Devil",
+			"lastName": "Kazumi",
+			"photo": "./src/img/devil-kazumipng.png",
+			"genre": "Female",
+			"species": "Human/Devil",
+			"source": "Tekken 7",
+			"region": "Japan",
+			"continent": "Asia",
+			"gameID": 10
+		  },
+		  {
+			"id": "claudio",
+			"firstName": "Claudio",
+			"lastName": "Serafino",
+			"photo": "./src/img/claudiopng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Italy",
+			"continent": "Europe",
+			"gameID": 10
+		  },
+		  {
+			"id": "mokujin",
+			"firstName": "Mokujin",
+			"lastName": "",
+			"photo": "./src/img/mokujinjpg.png",
+			"genre": "Unknown",
+			"species": "Wooden Dummy",
+			"source": "Tekken 3",
+			"region": "Unknown",
+			"continent": "Unknown",
+			"gameID": 3
+		  },
+		  {
+			"id": "zafina",
+			"firstName": "Zafina",
+			"lastName": "",
+			"photo": "./src/img/zafinapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 6",
+			"region": "Middle East",
+			"continent": "Asia",
+			"gameID": 8
+		  },
+		  {
+			"id": "kunimitsu",
+			"firstName": "Kunimitsu",
+			"lastName": "",
+			"photo": "./src/img/kunimitsu-ijpg.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 1",
+			"region": "Japan",
+			"continent": "Asia",
+			"gameID": 1
+		  },
+		  {
+			"id": "kunimitsu2",
+			"firstName": "Kunimitsu",
+			"lastName": "II",
+			"photo": "./src/img/kunimitsujpg.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Japan",
+			"continent": "Asia",
+			"gameID": 10
+		  },
+		  {
+			"id": "victor",
+			"firstName": "Victor",
+			"lastName": "Chavalier",
+			"photo": "./src/img/victorpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 8",
+			"region": "France",
+			"continent": "Europe",
+			"gameID": 11
+		  },{
+			"id": "wang",
+			"firstName": "Wang",
+			"lastName": "Jinrei",
+			"photo": "./src/img/wangpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 1",
+			"region": "China",
+			"gameID": 1,
+			"continent": "Asia"
+		  }
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+	],
+	"games": [
+		{
+			"id": "tekken1",
+			"name": "Tekken 1",
+			"year": "1994"
+		},
+		{
+			"id": "tekken2",
+			"name": "Tekken 2",
+			"year": "1995"
+		},
+		{
+			"id": "tekken3",
+			"name": "Tekken 3",
+			"year": "1997"
+		},
+		{
+			"id": "tekken-tag",
+			"name": "Tekken Tag Tournament",
+			"year": "2000"
+		},
+		{
+			"id": "tekken4",
+			"name": "Tekken 4",
+			"year": "2002"
+		},
+		{
+			"id": "tekken5",
+			"name": "Tekken 5",
+			"year": "2005"
+		},
+		{
+			"id": "tekken5-DR",
+			"name": "Tekken 5: Dark Resurrection",
+			"year": "2005"
+		},
+		{
+			"id": "tekken6",
+			"name": "Tekken 6",
+			"year": "2007"
+		},
+		{
+			"id": "tekken-tag2",
+			"name": "Tekken Tag Tournament 2",
+			"year": "2012"
+		},
+		{
+			"id": "tekken7",
+			"name": "Tekken 7",
+			"year": "2017"
+		},
+		{
+			"id": "tekken8",
+			"name": "Tekken 8",
+			"year": "2024"
+		}
+	]
+}
