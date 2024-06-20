@@ -388,7 +388,7 @@
 			"id": "kuma",
 			"firstName": "Kuma",
 			"lastName": "I",
-			"photo": "img/kumapng.png",
+			"photo": "img/kuma1png.png",
 			"genre": "Male",
 			"species": "Bear",
 			"source": "Tekken 1",
@@ -694,23 +694,204 @@
 			"region": "China",
 			"gameID": 1,
 			"continent": "Asia"
+		  },
+		  {
+			"id": "lidia",
+			"firstName": "Lidia",
+			"lastName": "Sobieska",
+			"photo": "img/lidiapng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Poland",
+			"gameID": 9,
+			"continent": "Europe"
+		  },
+		  {
+			"id": "shaheen",
+			"firstName": "Shaheen",
+			"lastName": "",
+			"photo": "img/shaheenpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Saudi Arabia",
+			"gameID": 10,
+			"continent": "Asia"
+		  },
+		  {
+			"id": "gon",
+			"firstName": "Gon",
+			"lastName": "",
+			"photo": "img/gonpng.png",
+			"genre": "Male",
+			"species": "Dinosaur",
+			"source": "Tekken 3",
+			"region": "Unknown",
+			"gameID": 3,
+			"continent": "Unknown"
+		  },
+		  {
+			"id": "bob",
+			"firstName": "Bob",
+			"lastName": "Richards",
+			"photo": "img/bobpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 6",
+			"region": "USA",
+			"gameID": 8,
+			"continent": "North America"
+		  },
+		  {
+			"id": "fahkumram",
+			"firstName": "Fahkumram",
+			"lastName": "",
+			"photo": "img/fahkumrampng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Thailand",
+			"gameID": 10,
+			"continent": "Asia"
+		  },
+		  {
+			"id": "unknown",
+			"firstName": "Unknown",
+			"lastName": "",
+			"photo": "img/unknownpng.png",
+			"genre": "Female",
+			"species": "Human (Possessed by a Wolf Spirit)",
+			"source": "Tekken Tag Tournament",
+			"region": "Unknown",
+			"gameID": 4,
+			"continent": "Unknown"
+		  },
+		  {
+			"id": "bosconovitch",
+			"firstName": "Doctor",
+			"lastName": "Bosconovitch",
+			"photo": "img/bosconovitchpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken 3",
+			"region": "Russia",
+			"gameID": 3,
+			"continent": "Europe"
+		  },
+		  {
+			"id": "sebastian",
+			"firstName": "Sebastian",
+			"lastName": "",
+			"photo": "img/sebastianpng.png",
+			"genre": "Male",
+			"species": "Human",
+			"source": "Tekken Tag Tournament 2",
+			"region": "Monaco",
+			"gameID": 9,
+			"continent": "Europe"
+		  },
+		  {
+			"id": "masterraven",
+			"firstName": "Master",
+			"lastName": "Raven",
+			"photo": "img/masterravenpng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 7",
+			"region": "Unknown",
+			"gameID": 10,
+			"continent": "Unknown"
+		  },
+		  {
+			"id": "rogerjr",
+			"firstName": "Roger",
+			"lastName": "Jr.",
+			"photo": "img/rogerjrpng.png",
+			"genre": "Male",
+			"species": "Kangaroo",
+			"source": "Tekken 5",
+			"region": "Australia",
+			"gameID": 6,
+			"continent": "Oceania"
+		  },
+		  {
+			"id": "roger",
+			"firstName": "Roger",
+			"lastName": "",
+			"photo": "img/rogerpng.png",
+			"genre": "Male",
+			"species": "Kangaroo",
+			"source": "Tekken 2",
+			"region": "Australia",
+			"gameID": 2,
+			"continent": "Oceania"
+		  },
+		  {
+			"id": "prototypejack",
+			"firstName": "Prototype",
+			"lastName": "Jack",
+			"photo": "img/prototypejackpng.png",
+			"genre": "Male",
+			"species": "Robot",
+			"source": "Tekken",
+			"region": "Russia",
+			"gameID": 1,
+			"continent": "Europe"
+		  },
+		  {
+			"id": "miharu",
+			"firstName": "Miharu",
+			"lastName": "Hirano",
+			"photo": "img/miharupng.png",
+			"genre": "Female",
+			"species": "Human",
+			"source": "Tekken 4",
+			"region": "Japan",
+			"gameID": 5,
+			"continent": "Asia"
+		  },
+		  {
+			"id": "angel",
+			"firstName": "Angel",
+			"lastName": "",
+			"photo": "img/angelpng.png",
+			"genre": "Female",
+			"species": "Unknown",
+			"source": "Tekken 2",
+			"region": "Unknown",
+			"gameID": 2,
+			"continent": "Unknown"
+		},
+		{
+			"id": "alex",
+			"firstName": "Alex",
+			"lastName": "",
+			"photo": "img/alexpng.png",
+			"genre": "Male",
+			"species": "Dinosaur",
+			"source": "Tekken 2",
+			"region": "Unknown",
+			"gameID": 2,
+			"continent": "Unknown"
+		  },
+		  {
+			"id": "trueogre",
+			"firstName": "True",
+			"lastName": "Ogre",
+			"photo": "img/trueogrepng.png",
+			"genre": "Male",
+			"species": "Ogre",
+			"source": "Tekken 3",
+			"region": "Unknown",
+			"gameID": 3,
+			"continent": "Unknown"
 		  }
 		  
 		  
+		
 		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
-		  
+
 		  
 	],
 	"games": [
